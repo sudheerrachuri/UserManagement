@@ -12,4 +12,5 @@ export class LandingpageComponent implements OnInit {
   ngOnInit() {
   }
 
+
 }
